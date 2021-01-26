@@ -1,7 +1,7 @@
 name = "SABR"
 uuid = "415736d3-e371-4b8a-9ed5-2a314a4b3aac"
 authors = ["prs-watch"]
-version = "0.1.0"
+version = "0.0.1"
 
 [deps]
 Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
