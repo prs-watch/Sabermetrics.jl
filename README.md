@@ -1,4 +1,4 @@
-# SABR
+# Sabermetrics
 
 Julia package for Calculate Baseball Stats.
 
