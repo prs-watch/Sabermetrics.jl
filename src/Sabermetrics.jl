@@ -1,4 +1,4 @@
-module SABR
+module Sabermetrics
 
 export basehit, avg, obp, slg, ops, iso, rc, lazyrc, rc27, babip, woba, wraa, wrc, era, whip, fip, k9, bb9, h9, hr9
 

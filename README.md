@@ -5,12 +5,12 @@ Julia package for Calculate Baseball Stats.
 ## Install
 
 ```bash
-julia -e 'using Pkg; Pkg.add("SABR")'
+julia -e 'using Pkg; Pkg.add("Sabermetrics")'
 ```
 
 ## Features
 
-`SABR.jl` supports following calculations.
+`Sabermetrics.jl` supports following calculations.
 
 - Hitting Stats
     - `basehit(hits, double, triple, hr)`
